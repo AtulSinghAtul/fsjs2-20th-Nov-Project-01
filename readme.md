@@ -1,15 +1,16 @@
 # Project- 01
 
 
-[Live Link](https://fsjs2-20th-nov-project-01.netlify.app/)
-
-- ### Name : Atul Singh
-> ## Social Media Links:
+- ### [Live Link](https://fsjs2-20th-nov-project-01.netlify.app/)
+ > ## Social Media Links:
 
 - ### [Portfolio Website Link](https://www.findcoder.io/u/atulsinghatul)
 - ### [Linkedin Link](https://www.linkedin.com/in/atul-singh-082529249/)
 - ### [Youtube Link](https://www.youtube.com/channel/UCBNc9Vs9mAFxnAKjzWRqDFQ)
 - ## [Hashnode Link](https://atulsinghatul.hashnode.dev/)
+
+- ## Name : Atul Singh
+
 
 ---
 
